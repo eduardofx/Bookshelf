@@ -20,7 +20,7 @@ NodeJS + Postgresql + Bookshelf
 
 > $ npm install joi --save
 
-# retornar promise
+# Retornar promise
 > $ npm install bluebird --save
 
 
