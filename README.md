@@ -16,7 +16,8 @@ NodeJS + Postgresql + Bookshelf
 > $ npm install sqlite3
 
 # Validador
-> https://github.com/hapijs/joi/blob/v11.1.1/API.md
+> https://github.com/hapijs/joi/blob/v11.1.1/API.md  
+
 > $ npm install joi --save
 
 # retornar promise
